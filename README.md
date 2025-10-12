@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Himank</h1>
 <h3 align="center">I'm a Web Developer from India exploring the deep ocean of Web.</h3>
+### 🔧 Technologies & Tools
+
+- **Languages**: JavaScript (React.js, Node.js), Java, Python, SQL
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Tools**: Git, Docker, AWS, Postman, VS Code, IntelliJ
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
