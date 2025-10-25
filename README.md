@@ -3,17 +3,64 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himank0808&label=Profile%20views&color=0e75b6&style=flat" alt="himank0808" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🔧 Technologies & Tools
+
+- *Languages:* JavaScript (React.js, Node.js), Java, Python, SQL  
+- *Databases:* MySQL, PostgreSQL, MongoDB  
+- *Tools & Technologies:* Git, Docker, AWS, Postman, VS Code, IntelliJ  
+
 <p align="left">
-<a href="https://linkedin.com/in/himank-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himank-singh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/himank8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himank8" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/himank-singh" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himank-singh" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/himank8" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himank8" height="30" width="40" />
+  </a>
+  <a href="https://github.com/Himank0808" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="30" height="30"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himank0808&show_icons=true&locale=en&layout=compact" alt="himank0808" /></p>
+## 🚀 Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himank0808&show_icons=true&locale=en" alt="himank0808" /></p>
+- **[Expense Tracker](https://github.com/Himank0808/Expense-tracker-java-)**  
+  Java console app to manage personal expenses with categorization and reports.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himank0808&" alt="himank0808" /></p>
+- **[Hospital Management System](https://github.com/Himank0808/Hospital-Management-System-)**  
+  Console-based system for patient registration, doctor listings, and appointment booking.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Himank0808&show_icons=true&theme=radical" alt="Himank's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himank0808&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himank0808&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📬 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/himank-singh)  
+- [LeetCode](https://www.leetcode.com/himank8)  
+- [GitHub](https://github.com/Himank0808)  
+- Email: himanksingh0808@gmail.com
+
+---
+
+## 💡 About Me
+
+I’m a passionate web developer focused on building *scalable full-stack applications* with clean, responsive UI/UX.  
+I enjoy solving problems, learning new technologies, and sharing knowledge with the community.
