@@ -27,8 +27,8 @@
 
 ## 🚀 Projects
 
-- **[Expense Tracker](https://github.com/Himank0808/Expense-tracker-java-)**  
-  Java console app to manage personal expenses with categorization and reports.
+- **[Loan Approval Prediction System](https://github.com/Himank0808/Loan-Approval-Prediction-ML)**  
+   A machine learning project that predicts whether a loan application will be approved based on applicant details using data preprocessing, model comparison,                   hyperparameter tuning, and visualization.
 
 - **[Hospital Management System](https://github.com/Himank0808/Hospital-Management-System-)**  
   Console-based system for patient registration, doctor listings, and appointment booking.
