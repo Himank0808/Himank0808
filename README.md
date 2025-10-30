@@ -37,17 +37,23 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himank0808&show_icons=true&theme=radical" alt="Himank's GitHub Stats" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himank0808&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div style="display: flex; flex-direction: row;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Himank0808&theme=vision_friendly_dark" style="margin-right: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Himank0808&theme=vision_friendly_dark">
+</div>
 
+<br/>
+<br/>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himank0808&theme=radical" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=Himank0808&theme=dark" alt="GitHub Streak">
+  </a>
 </p>
+<br/>
+<br/>
+
 
 ---
 
