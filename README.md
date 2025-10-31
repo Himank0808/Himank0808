@@ -27,11 +27,12 @@
 
 ## 🚀 Projects
 
-- **[Loan Approval Prediction System](https://github.com/Himank0808/Loan-Approval-Prediction-ML)**  
-   A machine learning project that predicts whether a loan application will be approved based on applicant details using data preprocessing, model comparison,                   hyperparameter tuning, and visualization.
 
 - **[Smart_Salary_Predictor](https://github.com/Himank0808/Smart_Salary_Predictor)**  
 A Smart Salary Predictor is a machine learning model that predicts an individual's salary based on factors like experience, education, and job role.
+
+- **[Loan Approval Prediction System](https://github.com/Himank0808/Loan-Approval-Prediction-ML)**  
+   A machine learning project that predicts whether a loan application will be approved based on applicant details using data preprocessing, model comparison,                   hyperparameter tuning, and visualization.
 
 ---
 
